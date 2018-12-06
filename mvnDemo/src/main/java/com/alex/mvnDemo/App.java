@@ -14,6 +14,5 @@ public class App
         System.out.println( "Hello World 4 " );
         System.out.println( "Hello docker 1 " );
         System.out.println( "Hello docker 2 " );
-        System.out.println( "Hello docker 3 " );
     }
 }
